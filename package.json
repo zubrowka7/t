@@ -1,0 +1,10 @@
+{
+  "name": "bun-render-example",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "bun run server.js"
+  },
+  "dependencies": {
+  }
+}
